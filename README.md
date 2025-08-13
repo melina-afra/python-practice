@@ -1,2 +1,2 @@
 # python-practice
-here u can find my class projects .
+here u can find my python class projects .
