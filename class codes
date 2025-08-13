@@ -1,0 +1,61 @@
+# detect week days
+
+if number == 1:
+    print('saturday')
+elif number == 2:
+    print('sunday')
+elif number == 3:
+    print('monday')
+elif number == 4:
+    print('Tuesday')
+elif number == 5:
+    print('wednesday')
+elif number == 6:
+    print('Thursday')
+elif number == 7:
+    print('friday')
+else:
+ 
+   print("is not availabale please enter number between 1 to 7 and check it again .")
+   
+# Receive a number and print numbers smaller than it.
+#num = int(input("enter number"))
+
+#for i in range(num):
+    #print(i)
+    
+#  receive a number and detect it is prime or not
+#def is_prime(n):
+    #if n <= 1 :
+          #return False
+    #for i in range(2 , n):
+         #if n % i == 0:
+              #return False
+    #return True
+#num = int(input("enter number"))
+
+# is_prime(num):
+    #print("it is prime ")
+#else:
+    #print("is not prime ")
+
+#  receive a number and print the prime numbers smaller than it
+#number = int(input("enter number"))
+
+#print(number)
+#for i in range(2 , number):
+    #is_prime = True
+    #for j in range(2 , int(i ** 0.5) + 1):
+        #if i % j == 0:
+            #is_prime = False
+            #break
+    #if is_prime:
+        #print(i)
+
+#  Receive a number and print two-digit even numbers smaller than it
+#number = int(input("enter number"))
+
+#print(number)
+#for i in range(10 , min(number , 100)):
+    #if i % 2 == 0:
+        #print(i)
